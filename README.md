@@ -11,7 +11,7 @@
 <p align="center">
   Hi, I'm Sideeq Andwaheed, full stack Developer
   <br>
-  🔬 I'm currently studying for a  Bsc in Oabfemi Awolowo University Computer Engineering Department
+  🔬   Bsc at Oabfemi Awolowo University Computer Engineering Department
   <br>
   🎓 I'm a passionate software developer with a keen interest in open-source projects and technology. 
   <br >
